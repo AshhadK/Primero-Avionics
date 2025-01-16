@@ -1,2 +1,2 @@
-# http://primero-airways.herokuapp.com/homepage.html
+# https://airline.novacare.site/
 # primero-avionics
